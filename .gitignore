@@ -1,0 +1,5 @@
+/horme
+*.db
+*.db-journal
+.env
+dist/
